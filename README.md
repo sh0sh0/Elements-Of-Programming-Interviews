@@ -19,5 +19,10 @@ Key focus areas:
 - Algorithms
 - System Design
 
+Other Resources:
 - [MIT Algorithm class](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+
+## Chapter 4 Primitive Types
+
+Chapter 1-3 are about non-technical parts of programming interviews, e.g. resume. We will skip these. 
 
