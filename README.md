@@ -26,3 +26,14 @@ Other Resources:
 
 Chapter 1-3 are about non-technical parts of programming interviews, e.g. resume. We will skip these. 
 
+### Key Concepts
+- Booleans, integers and characters (in Python everything is an object)
+- Build-in types: numerics, sequences, mappings
+- [sys.maxsize](https://docs.python.org/3/library/sys.html#sys.maxsize)
+- [sys.float_info](https://docs.python.org/3/library/sys.html#sys.float_info)
+
+### Problems
+Each link takes you directly to the code with comments
+- [Count Bits](chapter4/count_bits.py)
+
+
