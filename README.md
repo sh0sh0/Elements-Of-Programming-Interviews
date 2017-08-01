@@ -28,9 +28,10 @@ Chapter 1-3 are about non-technical parts of programming interviews, e.g. resume
 
 ### Key Concepts
 - Booleans, integers and characters (in Python everything is an object)
-- Build-in types: numerics, sequences, mappings
+- [Build-in types: numerics, sequences, mappings, etc](https://docs.python.org/3/library/stdtypes.html)
 - [sys.maxsize](https://docs.python.org/3/library/sys.html#sys.maxsize)
 - [sys.float_info](https://docs.python.org/3/library/sys.html#sys.float_info)
+- [bit-wise operators](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)
 
 ### Problems
 Each link takes you directly to the code with comments
