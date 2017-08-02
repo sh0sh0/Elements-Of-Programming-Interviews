@@ -32,9 +32,12 @@ Chapter 1-3 are about non-technical parts of programming interviews, e.g. resume
 - [sys.maxsize](https://docs.python.org/3/library/sys.html#sys.maxsize)
 - [sys.float_info](https://docs.python.org/3/library/sys.html#sys.float_info)
 - [bit-wise operators](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)
+- [XOR](https://en.wikipedia.org/wiki/Exclusive_or)
+
 
 ### Problems
 Each link takes you directly to the code with comments
 - [Count Bits](chapter4/count_bits.py)
 
 
+*[Typo] At the bottom of page 23, it should be "-16>>2".*
