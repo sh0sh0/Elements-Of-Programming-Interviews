@@ -33,6 +33,8 @@ Chapter 1-3 are about non-technical parts of programming interviews, e.g. resume
 - [sys.float_info](https://docs.python.org/3/library/sys.html#sys.float_info)
 - [bit-wise operators](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)
 - [XOR](https://en.wikipedia.org/wiki/Exclusive_or)
+- [Two's complement](https://wiki.python.org/moin/BitwiseOperators)
+
 
 
 ### Problems
