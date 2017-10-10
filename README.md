@@ -1,5 +1,6 @@
 # ElementsOfProgrammingInterviews
 This is a project that helps me and my friends to prepare programming interviews using the book, "Elements of Programming Interviews"
+
 Update: As I started practising more and more questions, I realized that python is a great language however it is a high-level language. As someone who's usually more on the theoretical side, I decided to switch to Java which requires a bit more low-level thinking. Therefore, much of the code here will be continued in Java. 
 
 ## For Whom
