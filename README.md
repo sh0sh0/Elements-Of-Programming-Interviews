@@ -38,9 +38,9 @@ Chapter 1-3 are about non-technical parts of programming interviews, e.g. resume
 - [Build-in types: numerics, sequences, mappings, etc](https://docs.python.org/3/library/stdtypes.html)
 - [sys.maxsize](https://docs.python.org/3/library/sys.html#sys.maxsize)
 - [sys.float_info](https://docs.python.org/3/library/sys.html#sys.float_info)
-- [Python: bit-wise operators](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)
 - [XOR](https://en.wikipedia.org/wiki/Exclusive_or)
 - [Two's complement](https://wiki.python.org/moin/BitwiseOperators)
+- [Python: bit-wise operators](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)
 - [Java: Bitwise and Bit Shift Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html)
 
 
