@@ -38,15 +38,17 @@ Chapter 1-3 are about non-technical parts of programming interviews, e.g. resume
 - [Build-in types: numerics, sequences, mappings, etc](https://docs.python.org/3/library/stdtypes.html)
 - [sys.maxsize](https://docs.python.org/3/library/sys.html#sys.maxsize)
 - [sys.float_info](https://docs.python.org/3/library/sys.html#sys.float_info)
-- [bit-wise operators](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)
+- [Python: bit-wise operators](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)
 - [XOR](https://en.wikipedia.org/wiki/Exclusive_or)
 - [Two's complement](https://wiki.python.org/moin/BitwiseOperators)
+- [Java: Bitwise and Bit Shift Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html)
 
 
 
 ### Problems
 Each link takes you directly to the code with comments
-- [Count Bits](chapter4/count_bits.py)
+- [Count Bits](chapter4/count_bits.py) in Python3
+- [Number Complement](chapter4/476NumberComplement.java) from [Leetcode problem number 476](https://leetcode.com/problems/number-complement/description/)
 
 
 *[Typo] At the bottom of page 23, it should be "-16>>2".*
