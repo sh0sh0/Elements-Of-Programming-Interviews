@@ -1,3 +1,4 @@
+#define the new class for ListNode
 class ListNode:
     def __init__(self, data=0, next_node=None):
         self.data = data
@@ -13,6 +14,7 @@ def genList(lst):
         R = ListNode(lst[i], R)
     return R
 
+# combining two linked list into one
 def combine(L1, L2):
     dummy_head = tail = ListNode()
     while L1 and L2:
